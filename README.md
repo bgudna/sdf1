@@ -8,6 +8,6 @@ The plan: to do develop a small roguelike in vanilla GDscript, and release on mu
 
 ## TODO (for now)
 
-[] add concept art
-[] draw pixel art
-[] set up project in godot
+- [ ] add concept art
+- [ ] draw pixel art
+- [ ] set up project in godot
